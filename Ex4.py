@@ -1,3 +1,5 @@
+# I'm trying to add a string which calculates how many trips should be done when the number of pax to carpool is bigger than 4 per car.
+# Line 11 is my addition to the code. But it's not working as I want. Help?
 cars = 100 # Here I defined my quantity of cars. It's important because I later will use people for which car
 space_in_a_car = 4.0 #the floating point seems not need on this equation as I don't have broken number of pax to calculate
 drivers = 30
